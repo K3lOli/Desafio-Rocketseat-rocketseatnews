@@ -25,12 +25,11 @@ function Home() {
                     </div>
 
                 </label>
-                <a id='link' href="">deixe-me ler primeiro -> </a>
+                <a id='link' href="">deixe-me ler primeiro</a>
 
 
             </div>
             <div className='rigth-side'>
-                {/* <img src={read} alt="" /> */}
             </div>
         </div>
     )
