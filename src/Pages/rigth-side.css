@@ -1,0 +1,7 @@
+.rigth-side {
+    width: 50%;
+    height: 100vh;
+    background-image: url(./../assets/read_news.jpg);
+    background-size: cover;
+    background-position: right;
+}
